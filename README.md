@@ -1,16 +1,20 @@
-## Hi there 👋
+## Welcome! My name is Christine Valdellon
 
-<!--
-**christineval/christineval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME
+  A graduating BSIT student at Laguna State Polytechnic University - Santa Cruz, Laguna
+  An inspiring Web and Mobile Application Developer
+  Interested in Software Development, UI/UX Design
 
-Here are some ideas to get you started:
+SKILLS
+  Languages: Python, Dart, SQL
+  Frameworks: Flask, Flutter
+  Others: Basic Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PROJECTS
+  Web and Mobile Application (E-Commerce)
+
+CONTACT ME
+  cnvaldellon4@gmail.com
+  
+  
+  
