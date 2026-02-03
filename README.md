@@ -7,7 +7,9 @@
 🛠️ Tech Stack
 
 Languages: PHP, Python, Dart, C#
+
 Frameworks: Flask, Flutter
+
 Others: Figma
 
 📫 Contact Me
