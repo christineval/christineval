@@ -1,24 +1,14 @@
 👋 Hello, I'm Christine Valdellon
 
-🎓 BSIT Graduating | Laguna State Polytechnic University – Santa Cruz, Laguna
+🎓 BSIT Student | Philippines
 💻 Aspiring Web & Mobile Application Developer
-✨ Passionate about Software Development, UI/UX Design, and Cloud Computing
+✨ Passionate about Software Development and UI/UX Design
 
-🚀 About Me
+🛠️ Tech Stack
 
-I am a graduating Bachelor of Science in Information Technology (BSIT) student with a strong interest in building innovative and user-friendly applications. My focus is on creating impactful digital solutions through web and mobile technologies while continuously improving my skills in development and design.
-
-🛠️ Skills
-
-Languages: PHP, Python, Dart, SQL
-
+Languages: PHP, Python, Dart, C#
 Frameworks: Flask, Flutter
-
-Others: Basic Web Development, UI/UX Design
-
-📂 Projects
-
-E-Commerce Web & Mobile Application – Designed and developed a cross-platform application for online shopping and product management.
+Others: Figma
 
 📫 Contact Me
 
